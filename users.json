@@ -1,0 +1,12 @@
+[
+  { "id": 2, "name": "Rahul", "age": 22, "role": "user" },
+  { "id": 3, "name": "Priya", "age": 27, "role": "editor" },
+  { "id": 4, "name": "Amit", "age": 30, "role": "admin" },
+  { "id": 5, "name": "Sneha", "age": 24, "role": "user" },
+  { "id": 6, "name": "Karan", "age": 28, "role": "editor" },
+  { "id": 7, "name": "Neha", "age": 26, "role": "user" },
+  { "id": 8, "name": "Rohit", "age": 29, "role": "admin" },
+  { "id": 9, "name": "Pooja", "age": 23, "role": "user" },
+  { "id": 10, "name": "Vikram", "age": 31, "role": "editor" },
+  { "id": 11, "name": "Meera", "age": 25, "role": "user" }
+]
